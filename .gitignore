@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# MacOS
+.DS_Store
+
+# Streamlit
+.streamlit/ secrets.toml
+
+# Excel files (data)
+*.xlsx
+
+# User requested ignores
+example/
+output_files/
+test_logic.py

@@ -9,7 +9,7 @@ venv/
 .DS_Store
 
 # Streamlit
-.streamlit/ secrets.toml
+.streamlit/secrets.toml
 
 # Excel files (data)
 *.xlsx
